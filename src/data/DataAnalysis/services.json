@@ -1,0 +1,27 @@
+[
+  {
+    "image": "/assets/img/icons/serv_icons/25.png",
+    "title": "AI & Machine Learning",
+    "text": "Experience accelerated business growth with our advanced AI and Machine Learning services, unlocking your potential with expert solutions and cutting-edge technology."
+  },
+  {
+    "image": "/assets/img/icons/serv_icons/26.png",
+    "title": "DevOps Solutions",
+    "text": "Streamline your software development lifecycle and accelerate innovation. We provide CI/CD, IaC, performance monitoring, cloud management, and security to optimize efficiency, stability, and growth."
+  },
+  {
+    "image": "/assets/img/icons/serv_icons/27.png",
+    "title": "Security Audits",
+    "text": "Protect your business with comprehensive Security Audits, identifying and addressing Security Vulnerabilities to meet your compliance requirements and specific needs."
+  },
+  {
+    "image": "/assets/img/icons/serv_icons/28.png",
+    "title": "Full Stack Development",
+    "text": "Our comprehensive solutions leverage the latest technologies for scalable, secure, and high-quality Web and Mobile applications, tailored to your needs."
+  },
+  {
+    "image": "/assets/img/icons/serv_icons/29.png",
+    "title": "Cloud Architecture",
+    "text": "Experience the power of the cloud with our expertly designed Cloud Architecture, providing robust and flexible solutions for your business."
+  }
+]

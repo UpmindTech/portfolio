@@ -1,0 +1,21 @@
+{
+  "text": "UpMind is a top-tier agency specializing in Artificial Intelligence, Machine Learning, Full Stack Development, and DevOps solutions - covering any of your technological needs.",
+  "email": "hello@umpind.tech",
+  "phone": "+971 50 7563044",
+  "address": "Dubai | Phillipines",
+  "links": [
+    { "href": "#", "text": "AI & Machine Learning" },
+    { "href": "#", "text": "DevOps Solutions" },
+    { "href": "#", "text": "Security Audits" },
+    { "href": "#", "text": "Cloud Architecture" },
+    { "href": "#", "text": "Full Stack Development" }
+  ],
+  "morePages": [
+    { "href": "#", "text": "About Iteck" },
+    { "href": "#", "text": "Investors" },
+    { "href": "#", "text": "Contact" },
+    { "href": "#", "text": "Affiliate Program" },
+    { "href": "#", "text": "How It Works" },
+    { "href": "#", "text": "Pricing Plan" }
+  ]
+}

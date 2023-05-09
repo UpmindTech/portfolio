@@ -1,0 +1,38 @@
+[
+  {
+    "image": "/assets/img/projects/marketing-analytics.jpg",
+    "tag": "Analysis",
+    "logo": "/assets/img/logos/aben.svg",
+    "title": "Marketing Analytics Platform",
+    "text": "Enriching businesses with deep insights into marketing performance, and enabling data-driven decisions for growth and profitability. Using Django and VueJS, we built a seamless platform that delivers scalability, fault tolerance, and secure data storage leveraging the power of AWS Cloud Infrastructure. Our platform's BigData capabilities allow businesses to analyze vast amounts of data and track key metrics in a split-second!",
+    "client": {
+      "name": "",
+      "budget": "",
+      "estimate": ""
+    }
+  },
+  {
+    "image": "/assets/img/projects/vulnerability_management.jpeg",
+    "tag": "Analysis",
+    "logo": "/assets/img/logos/securelink.png",
+    "title": "Enterprise Vulnerability Management System",
+    "text": "Built using Python, the Web Application provides businesses with a powerful and scalable solution to manage vulnerabilities effectively. The platform enables businesses to scan their networks and applications for vulnerabilities, generate reports, and prioritize remediation efforts. Our platform ensured high availability and security. With advanced reporting capabilities, we allowed businesses to make informed decisions to minimize the risk of cyber attacks and data breaches.",
+    "client": {
+      "name": "",
+      "budget": "",
+      "estimate": ""
+    }
+  },
+  {
+    "image": "/assets/img/projects/4.png",
+    "tag": "Analysis",
+    "logo": "/assets/img/logos/22.png",
+    "title": "Hayden Co. Market Data Analysis",
+    "text": "Stay focused and productive with a clean and clutter-free note space the flexible ways to organize. Everything melancholy uncommonly but solicitude.",
+    "client": {
+      "name": "Miranda H. Halim",
+      "budget": "$12,000",
+      "estimate": "3 Months"
+    }
+  }
+]

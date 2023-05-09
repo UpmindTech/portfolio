@@ -1,0 +1,29 @@
+[
+  {
+    "stars": 5,
+    "text": "UpMind was able to manage and plan the project and formulate solutions to difficult problems. We suggest working with them especially if you are at the early stages of a challanging project.",
+    "author": {
+      "image": "/assets/img/testimonials/user8.png",
+      "position": "Head Of Technology",
+      "name": ""
+    }
+  },
+  {
+    "stars": 5,
+    "text": "The team has been instrumental in building our AWS infrastructure and mobile/web apps.",
+    "author": {
+      "image": "/assets/img/testimonials/user7.png",
+      "position": "CEO",
+      "name": ""
+    }
+  },
+  {
+    "stars": 5,
+    "text": "We appreciate their skills and experience in Software Engineering and DevOps. The team is very innovative and provides effective solutions to the software problems of our business.",
+    "author": {
+      "image": "/assets/img/testimonials/user9.png",
+      "position": "Co-Founder, CEO",
+      "name": ""
+    }
+  }
+]
